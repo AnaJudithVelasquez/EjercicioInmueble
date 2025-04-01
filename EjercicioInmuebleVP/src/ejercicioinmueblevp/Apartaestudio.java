@@ -4,10 +4,6 @@
  */
 package ejercicioinmueblevp;
 
-/**
- *
- * @author Rosa
- */
 public class Apartaestudio {
     
 }
